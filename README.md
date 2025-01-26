@@ -1,6 +1,6 @@
-# ATM Simulation Project
+# ATM System Project
 
-This project simulates the core functionalities of an Automated Teller Machine (ATM) using C++ and a text file-based database system. It is implemented using functional programming principles.
+This project simulates the core functionalities of (ATM) using C++ and a text file-based database system. It is implemented using functional programming principles.
 
 ---
 
